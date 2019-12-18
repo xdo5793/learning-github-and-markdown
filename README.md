@@ -35,6 +35,13 @@ git push origin master
 
 # markdown is superset of html, all markdown is valid html
 
+# pull request - someone review what you did
 
+# References 
+- https://www.git-scm.com/docs
+- https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
+- https://www.codecademy.com/learn/learn-git
+
+_italics_ **bold** [links](www.google.com)
 
 
