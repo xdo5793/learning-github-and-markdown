@@ -1,7 +1,7 @@
 # learning-github-and-markdown
 
 ...
-# initilize git repo
+## initilize git repo
 git init 
 
 # staged
